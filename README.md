@@ -96,7 +96,7 @@ python proxy_checker.py
 
 3. **Verify Installation**
    ```bash
-   python proxy_checker.py
+   python main.py
    ```
 
 ### Required Packages
